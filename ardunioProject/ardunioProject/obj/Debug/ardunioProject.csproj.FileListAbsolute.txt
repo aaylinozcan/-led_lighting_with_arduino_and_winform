@@ -1,0 +1,10 @@
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\bin\Debug\ardunioProject.exe.config
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\bin\Debug\ardunioProject.exe
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\bin\Debug\ardunioProject.pdb
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.csprojAssemblyReference.cache
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.Form1.resources
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.Properties.Resources.resources
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.csproj.GenerateResource.cache
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.csproj.CoreCompileInputs.cache
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.exe
+C:\Users\aylin\source\repos\ardunioProject\ardunioProject\obj\Debug\ardunioProject.pdb
